@@ -23,6 +23,14 @@ SortyCat helps you automatically rename and organize your photos and videos by c
 5. Click **Rename and Organize**
 
 ---
+## 💡 Example
+* Before:
+
+![Before](image.png)
+
+* After:
+![After1](image.png)
+![After2](image-1.png)
 
 ## ⚠️ Important
 
