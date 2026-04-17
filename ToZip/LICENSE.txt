@@ -1,0 +1,6 @@
+Copyright (c) 2026 Ji-Young Lee. All rights reserved.
+ 
+SortyCat is free to use for personal purposes.
+For commercial use or redistribution, please contact the author.
+
+This software may not be copied, modified, or distributed without permission.
