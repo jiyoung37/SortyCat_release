@@ -26,11 +26,11 @@ SortyCat helps you automatically rename and organize your photos and videos by c
 ## 💡 Example
 * Before:
 
-![Before](image.png)
+![Before](image_1.png)
 
 * After:
-![After1](image.png)
-![After2](image-1.png)
+![After1](image_2.png)
+![After2](image_3.png)
 
 ## ⚠️ Important
 
